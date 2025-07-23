@@ -4,6 +4,8 @@
 # 🎬 Axios OMDb Movie Fetch
 
 This is a simple React + Vite project built to learn how to fetch external API data using **Axios**. It uses the [OMDb API](https://www.omdbapi.com/) to search for movies and display them in a responsive card layout.
+<img width="2846" height="1572" alt="image" src="https://github.com/user-attachments/assets/7dfaf46e-eff0-4bdb-81f7-69d4bc123a8d" />
+
 
 ## 🔗 Live Demo
 
